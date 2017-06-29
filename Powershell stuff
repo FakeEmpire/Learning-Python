@@ -1,0 +1,12 @@
+cd any folder - takes you to the folder in question
+cd .. scrolls back up one folder
+cd ~ takes you back to the start
+pwd tells you where you are
+mkdir creates a folder in whatever location you are in
+ls lists the contents of the folder you are in
+rmdir deletes a folder in the folder you are in
+pushd pushes the folder you are in aside and takes you elsewhere
+popd brings you back to what you pushd
+cp neat.txt awesome.txt copies a file and saves with new name
+cp awesome.txt something/ copies file into a different folder
+cp -recurse something newplace
